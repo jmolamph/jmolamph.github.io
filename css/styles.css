@@ -65,6 +65,10 @@ img {
     align-items: center;
 }
 
+.cover_obj {
+    padding: 5em;
+}
+
 .links {
     display: flex;
 
